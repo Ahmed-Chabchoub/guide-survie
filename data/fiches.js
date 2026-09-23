@@ -66,7 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-
+{
+    titre: "GitHub",
+    categorie: "Études",
+    texte: "La facilite",
+    auteur: "Moi Meme"
+  }
 
   // ===== FIN DE VOS FICHES =====
 
