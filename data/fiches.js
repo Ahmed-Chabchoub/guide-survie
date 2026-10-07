@@ -5,10 +5,10 @@
    par une virgule. Pour en ajouter une, copiez ce modèle :
 
      {
-       titre: "Le titre de votre fiche",
-       categorie: "Vie pratique",
-       texte: "Votre conseil, en une ou deux phrases.",
-       auteur: "Votre prénom"
+       titre: "Titre",
+       categorie: "titre",
+       texte: "i want a private island.",
+       auteur: "Hana"
      },
 
    Catégories disponibles :
