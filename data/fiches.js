@@ -64,7 +64,6 @@ const FICHES = [
     categorie: "Études",
     texte: "La facilite",
     auteur: "Moi Meme"
-<<<<<<< HEAD
   },
 {
     titre: "ELDEN RING",
