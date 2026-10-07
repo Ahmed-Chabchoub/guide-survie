@@ -87,6 +87,12 @@ const FICHES = [
     auteur: "Molka"
 >>>>>>> 0122a30fcf12edbe1b17e5748614fdfe14552a88
   },
+    {
+    titre: "Jeffrey Kirkstein",
+    categorie: "Vie pratique",
+    texte: "Bourguiba met 3lina",
+    auteur: "Mayssa"
+  },
 
   // ===== FIN DE VOS FICHES =====
 
