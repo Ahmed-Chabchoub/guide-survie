@@ -4,13 +4,6 @@
    Chaque fiche est un bloc entre accolades { }, séparé du suivant
    par une virgule. Pour en ajouter une, copiez ce modèle :
 
-     {
-       titre: "Titre",
-       categorie: "titre",
-       texte: "i want a private island.",
-       auteur: "Hana"
-     },
-
    Catégories disponibles :
      "Vie pratique"   "Études"   "Transport"   "Bons plans"
 
@@ -87,6 +80,13 @@ const FICHES = [
     auteur: "Molka"
 >>>>>>> 0122a30fcf12edbe1b17e5748614fdfe14552a88
   },
+
+     {
+       titre: "Titre",
+       categorie: "titre",
+       texte: "i want a private island.",
+       auteur: "Hana"
+     },
 
   // ===== FIN DE VOS FICHES =====
 
