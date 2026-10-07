@@ -71,7 +71,13 @@ const FICHES = [
     categorie: "Études",
     texte: "La facilite",
     auteur: "Moi Meme"
-  }
+  },
+{
+    titre: "S'organiser",
+    categorie: "Organisation",
+    texte: "Il vaut mieux s'organiser dès le début",
+    auteur: "Molka"
+  },
 
   // ===== FIN DE VOS FICHES =====
 
