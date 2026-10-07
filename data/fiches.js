@@ -93,7 +93,12 @@ const FICHES = [
        texte: "i want a private island.",
        auteur: "Hana"
      },
-
+{
+    titre: "Sicko mode",
+    categorie: "Banger",
+    texte: "Sun is down freezing cold. That's how we already know winter's here.",
+    auteur: "Ahmed"
+  },
   // ===== FIN DE VOS FICHES =====
 
 ];
