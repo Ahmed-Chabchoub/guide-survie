@@ -60,10 +60,10 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 {
-    titre: "Sicko mode",
-    categorie: "Banger",
-    texte: "Sun is down freezing cold. That's how we already know winter's here.",
-    auteur: "Ahmed"
+    titre: "Communication",
+    categorie: "Matiere",
+    texte: "Bonne chance a cause du nombre d'eleve dans la classe",
+    auteur: "Amine"
   },
 {
     titre: "GitHub",
