@@ -65,34 +65,32 @@ const FICHES = [
     texte: "La facilite",
     auteur: "Moi Meme"
 <<<<<<< HEAD
-  }
- {
+  },
+{
     titre: "ELDEN RING",
     categorie: "JEU",
     texte: "C'est un jeu parfait.",
     auteur: "Amine"
-=======
   },
 {
     titre: "S'organiser",
     categorie: "Organisation",
     texte: "Il vaut mieux s'organiser dès le début",
     auteur: "Molka"
->>>>>>> 0122a30fcf12edbe1b17e5748614fdfe14552a88
   },
-    {
+{
     titre: "Jeffrey Kirkstein",
     categorie: "Vie pratique",
     texte: "Bourguiba met 3lina",
     auteur: "Mayssa"
   },
 
-     {
-       titre: "Titre",
-       categorie: "titre",
-       texte: "i want a private island.",
-       auteur: "Hana"
-     },
+{
+    titre: "Titre",
+    categorie: "titre",
+    texte: "i want a private island.",
+    auteur: "Hana"
+  },
 {
     titre: "Sicko mode",
     categorie: "Banger",
