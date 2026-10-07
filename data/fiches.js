@@ -96,6 +96,13 @@ const FICHES = [
     texte: "Sun is down freezing cold. That's how we already know winter's here.",
     auteur: "Ahmed"
   },
+{
+    titre: "Prise de note",
+    categorie: "Méthode",
+    texte: "Ne cherchez pas à tout écrire, Notez surtout les formules, définitions et les éléments clés du cours.  ",
+    auteur: "Molka"
+  },
+
   // ===== FIN DE VOS FICHES =====
 
 ];
