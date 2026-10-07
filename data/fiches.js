@@ -72,6 +72,12 @@ const FICHES = [
     texte: "La facilite",
     auteur: "Moi Meme"
   }
+ {
+    titre: "ELDEN RING",
+    categorie: "JEU",
+    texte: "C'est un jeu parfait.",
+    auteur: "Amine"
+  },
 
   // ===== FIN DE VOS FICHES =====
 
