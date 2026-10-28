@@ -108,6 +108,20 @@ const FICHES = [
     texte: "Ne cherchez pas à tout écrire, Notez surtout les formules, définitions et les éléments clés du cours.  ",
     auteur: "Molka"
   },
+  {
+    titre: "Epstein files",
+    categorie: "Vie pratique",
+    texte: "Trump est un pedophile.",
+    auteur: "Amine"
+  },
+
+  {
+    titre: "Medusa",
+    categorie: "Chanson",
+    texte: "J'adore cette chanson.",
+    auteur: "Amine"
+  },
+
 
   // ===== FIN DE VOS FICHES =====
 
