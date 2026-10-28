@@ -45,6 +45,20 @@ const FICHES = [
   },
 
   {
+    titre: "Bonne chance
+    categorie: "Vie pratique",
+    texte: "Manger dormir reviser wikimaster",
+    auteur: "Hana"
+  },
+
+  {
+    titre: "Titre numero 2"
+    categorie: "Bons plans",
+    texte: "LOCK IN",
+    auteur: "Hana"
+  },
+
+  {
     titre: "Manger sans se ruiner",
     categorie: "Bons plans",
     texte: "Les sandwicheries de la rue derrière sont deux fois moins chères qu'en face du campus, à cinq minutes à pied.",
