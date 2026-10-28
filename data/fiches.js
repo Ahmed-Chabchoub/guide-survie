@@ -61,7 +61,14 @@ const FICHES = [
   {
     titre: "Wikibidous",
     categorie: "Bons plans",
-    texte: "DEVENEZ RICHE EN WIKIBIDOUS",
+    texte: "DEVENEZ RICHE EN WIKIBIDOUS.",
+    auteur: "Ahmed"
+  },
+
+  {
+    titre: "Kirkification",
+    categorie: "Securite",
+    texte: "Conseil : Ne pas mettre en colere les gens aux Etats-Unis. Charlie Kirk regrette.",
     auteur: "Ahmed"
   },
 
