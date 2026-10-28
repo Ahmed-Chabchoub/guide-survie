@@ -59,6 +59,13 @@ const FICHES = [
   },
 
   {
+    titre: "Titre numero 3"
+    categorie: "Good plans",
+    texte: "git commit -suicide",
+    auteur: "Hana"
+  },
+
+  {
     titre: "Manger sans se ruiner",
     categorie: "Bons plans",
     texte: "Les sandwicheries de la rue derrière sont deux fois moins chères qu'en face du campus, à cinq minutes à pied.",
