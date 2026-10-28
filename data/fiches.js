@@ -29,6 +29,20 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
+  
+  {
+    titre: "Why did you redeem it",
+    categorie: "Bons plans",
+    texte: "Why did you redeem it?",
+    auteur: "Mayssa"
+  },
+
+  {
+    titre: "Epstein Island",
+    categorie: "Bons plans",
+    texte: "Une île paradisiaque aux eaux turquoise, idéale pour des vacances de rêve loin du stress quotidien.",
+    auteur: "Mayssa"
+  },
 
   {
     titre: "Arriver avant 8h30",
@@ -108,6 +122,8 @@ const FICHES = [
     texte: "Ne cherchez pas à tout écrire, Notez surtout les formules, définitions et les éléments clés du cours.  ",
     auteur: "Molka"
   },
+
+
 
   // ===== FIN DE VOS FICHES =====
 
