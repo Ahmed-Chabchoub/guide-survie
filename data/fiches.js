@@ -49,6 +49,12 @@ const FICHES = [
     texte: "Fixez-vous un budget pour les repas et transports à respecter dès le début de l'année.",
     auteur: "Molka"
   },
+  {
+    titre: "Clubs",
+    categorie: "Vie associative",
+    texte: "Participez activement à la vie associative.",
+    auteur: "Molka"
+  },
 
   {
     titre: "Le premier rang n'est pas un piège",
