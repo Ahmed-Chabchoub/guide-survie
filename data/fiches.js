@@ -22,6 +22,25 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Dauphine files",
+    categorie: "Vie pratique",
+    texte: "Ne buvez pas.",
+    auteur: "Amine"
+  },
+  {
+    titre: "Epstein files",
+    categorie: "Vie pratique",
+    texte: "Trump est un pedophile.",
+    auteur: "Amine"
+  },
+
+  {
+    titre: "Medusa",
+    categorie: "Chanson",
+    texte: "J'adore cette chanson.",
+    auteur: "Amine"
+  },
 
   {
     titre: "Le distributeur du deuxième",
@@ -107,19 +126,6 @@ const FICHES = [
     categorie: "Méthode",
     texte: "Ne cherchez pas à tout écrire, Notez surtout les formules, définitions et les éléments clés du cours.  ",
     auteur: "Molka"
-  },
-  {
-    titre: "Epstein files",
-    categorie: "Vie pratique",
-    texte: "Trump est un pedophile.",
-    auteur: "Amine"
-  },
-
-  {
-    titre: "Medusa",
-    categorie: "Chanson",
-    texte: "J'adore cette chanson.",
-    auteur: "Amine"
   },
 
 
