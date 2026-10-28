@@ -32,7 +32,7 @@ const FICHES = [
   
   {
     titre: "Why did you redeem it",
-    categorie: "Bons plans",
+    categorie: "Bons Pans",
     texte: "Why did you redeem it?",
     auteur: "Mayssa"
   },
@@ -41,6 +41,13 @@ const FICHES = [
     titre: "Epstein Island",
     categorie: "Bons plans",
     texte: "Une île paradisiaque aux eaux turquoise, idéale pour des vacances de rêve loin du stress quotidien.",
+    auteur: "Mayssa"
+  },
+
+  {
+    titre: "Motivation",
+    categorie: "Vie pratique",
+    texte: "Du Bist Gut Genug",
     auteur: "Mayssa"
   },
 
