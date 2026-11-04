@@ -57,6 +57,25 @@ const FICHES = [
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Révision",
+    categorie: "Vie pratique",
+    texte: "Ne révisez pas uniquement la veille.",
+    auteur: "Molka"
+  },
+
+  {
+    titre: "Budgets",
+    categorie: "Bons plans",
+    texte: "Fixez-vous un budget pour les repas et transports à respecter dès le début de l'année.",
+    auteur: "Molka"
+  },
+  {
+    titre: "Clubs",
+    categorie: "Vie associative",
+    texte: "Participez activement à la vie associative.",
+    auteur: "Molka"
+  },
 
   {
     titre: "Le premier rang n'est pas un piège",
