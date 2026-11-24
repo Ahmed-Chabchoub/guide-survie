@@ -132,6 +132,28 @@ const FICHES = [
   },
 
   {
+    titre: "Wikimasters",
+    categorie: "Carte",
+    texte: "Collectionner toutes les cartes.",
+    auteur: "Ahmed"
+  },
+
+  {
+    titre: "Wikibidous",
+    categorie: "Bons plans",
+    texte: "DEVENEZ RICHE EN WIKIBIDOUS.",
+    auteur: "Ahmed"
+  },
+
+  {
+    titre: "Kirkification",
+    categorie: "Securite",
+    texte: "Conseil : Ne pas mettre en colere les gens aux Etats-Unis. Charlie Kirk regrette.",
+    auteur: "Ahmed"
+  },
+
+
+  {
     titre: "Poser sa question tout de suite",
     categorie: "Études",
     texte: "Une incompréhension non traitée en cours devient une heure de travail le soir. Le calcul est vite fait.",
