@@ -22,6 +22,25 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Dauphine files",
+    categorie: "Vie pratique",
+    texte: "Ne buvez pas.",
+    auteur: "Amine"
+  },
+  {
+    titre: "Epstein files",
+    categorie: "Vie pratique",
+    texte: "Trump est un pedophile.",
+    auteur: "Amine"
+  },
+
+  {
+    titre: "Medusa",
+    categorie: "Chanson",
+    texte: "J'adore cette chanson.",
+    auteur: "Amine"
+  },
 
   {
     titre: "Le distributeur du deuxième",
@@ -85,21 +104,21 @@ const FICHES = [
   },
 
   {
-    titre: "Bonne chance
+    titre: "Bonne chance",
     categorie: "Vie pratique",
     texte: "Manger dormir reviser wikimaster",
     auteur: "Hana"
   },
 
   {
-    titre: "Titre numero 2"
+    titre: "Titre numero 2",
     categorie: "Bons plans",
     texte: "LOCK IN",
     auteur: "Hana"
   },
 
   {
-    titre: "Titre numero 3"
+    titre: "Titre numero 3",
     categorie: "Good plans",
     texte: "git commit -suicide",
     auteur: "Hana"
