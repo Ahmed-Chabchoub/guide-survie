@@ -45,21 +45,21 @@ const FICHES = [
   },
 
   {
-    titre: "Bonne chance
+    titre: "Bonne chance",
     categorie: "Vie pratique",
     texte: "Manger dormir reviser wikimaster",
     auteur: "Hana"
   },
 
   {
-    titre: "Titre numero 2"
+    titre: "Titre numero 2",
     categorie: "Bons plans",
     texte: "LOCK IN",
     auteur: "Hana"
   },
 
   {
-    titre: "Titre numero 3"
+    titre: "Titre numero 3",
     categorie: "Good plans",
     texte: "git commit -suicide",
     auteur: "Hana"
