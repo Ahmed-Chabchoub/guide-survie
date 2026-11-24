@@ -212,10 +212,7 @@ const FICHES = [
   },
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> fiche-Mayssa
   // ===== FIN DE VOS FICHES =====
 
 ];
