@@ -162,6 +162,12 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 {
+    titre: "Suivez en classe",
+    categorie: "Etudes",
+    texte: "keep calm and git hub",
+    auteur: "Hana"
+  },
+{
     titre: "Communication",
     categorie: "Matiere",
     texte: "Bonne chance a cause du nombre d'eleve dans la classe",
