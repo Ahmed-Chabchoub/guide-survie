@@ -17,6 +17,12 @@
 const FICHES = [
 
   {
+    titre: "Je veux rentrer chez moi",
+    categorie: "TIIBT",
+    texte: "RANI SABAAAHTTTT.",
+    auteur: "Cherif"
+  },
+  {
     titre: "La salle de travail du premier",
     categorie: "Études",
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
