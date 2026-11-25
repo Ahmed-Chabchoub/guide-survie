@@ -210,6 +210,12 @@ const FICHES = [
     texte: "Ne cherchez pas à tout écrire, Notez surtout les formules, définitions et les éléments clés du cours.  ",
     auteur: "Molka"
   },
+{
+    titre: "Conseil de vie",
+    categorie: "Sagesse",
+    texte: "Les hommes politiques doivent mentir sinon on voterait pas pour eux, basique. Si tu dis souvent que t'as un probleme avec l'alcool c'est que t'en as un, simple",
+    auteur: "Ahmed et Orelsan"
+  },
 
 
 
