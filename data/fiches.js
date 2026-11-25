@@ -34,7 +34,12 @@ const FICHES = [
     texte: "Trump est un pedophile.",
     auteur: "Amine"
   },
-
+{
+    titre: "Pratique",
+    categorie: "Vie étudiante",
+    texte: "Travaillez tous les jours.",
+    auteur: "Molka"
+  },
   {
     titre: "Medusa",
     categorie: "Chanson",
